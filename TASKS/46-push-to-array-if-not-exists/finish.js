@@ -23,3 +23,17 @@ console.log(myNumbers) // [123, 50, 27, 80]
 
 pushIfUnique(myNumbers, 77)
 console.log(myNumbers) // [123, 50, 27, 80, 77]
+//   * 1. Создайте функцию "pushIfUnique" с двумя параметрами "inputArray" и "newElement"
+//     *
+//  * 2. Если "inputArray" уже содержит "newElement",
+//  * выведите в консоль "{newElement} уже находится в массиве"
+//   *
+//  * 3. В противном случае добавьте "newElement" в "inputArray"
+//   *
+//  * ПРИМЕЧАНИЕ: Мы предполагаем, что "inputArray" содержит элементы только примитивных типов
+//   * /
+
+
+const pushIfUniquqe(inputArray, newElement)=>{
+  
+}
